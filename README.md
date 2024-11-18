@@ -27,7 +27,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=agneselimbi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agneselimbih&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agneselimbi&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=agneselimbi%2Fagneselimbi&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=agneselimbi%2Fagneselimbi)
